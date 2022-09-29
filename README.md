@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jincito
 - 👀 I’m interested in Backend/Fullstack Engineering
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning the most I can. Languages: Python and Java.
 - 💞️ I’m looking to collaborate on website dev/webapps
 - 📫 How to reach me ...
