@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jincito
-- 👀 I’m interested in Backend/Fullstack Engineering
-- 🌱 I’m currently learning the most I can. Languages: Python and Java.
-- 💞️ I’m looking to collaborate on website dev/webapps
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jin
+- 👀 I’m interested in Fullstack Web Dev (using this for notes/portfolio)
+- 🌱 I’m currently a comp sci student in college. Languages: Python, JavaScript, C, and C++.
+- 📫 How to reach me: email~jinlegends@gmail.com LinkedIn
