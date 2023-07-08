@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Jin
-- 👀 I’m interested in Fullstack Web Dev (using this for notes/portfolio)
-- 🌱 I’m currently a comp sci student in college. Languages: Python, JavaScript, C, and C++.
-- 📫 How to reach me: email~jinlegends@gmail.com LinkedIn
+
