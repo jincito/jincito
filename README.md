@@ -1,6 +1,5 @@
-
 <p align = right>
-<img src="https://komarev.com/ghpvc/?username=jincito&color=ff69b4"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jincito.visitor-badge&left_color=green&right_color=red&left_text=visitors" alt="visitor badge">
 </p>
 
 <h1 align="center">
@@ -38,7 +37,7 @@
 <br/>
 
 <h2 align=center>
-  🔥Stats🔥
+  🔥 Stats 🔥
 </h2>
 
 <div align = center>
