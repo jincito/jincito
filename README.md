@@ -1,5 +1,5 @@
 <p align = right>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jincito.visitor-badge&left_color=green&right_color=red&left_text=visitors" alt="visitor badge">
+<img src="https://komarev.com/ghpvc/?username=jincito&color=orange&label=Visitors" alt="visitor badge">
 </p>
 
 <h1 align="center">
