@@ -37,7 +37,7 @@
 <br/>
 
 <h2 align=center>
-  🔥 Stats 🔥
+  🔥 STATS 🔥
 </h2>
 
 <div align = center>
