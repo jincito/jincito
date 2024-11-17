@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-    🎓 I'm currently studying Computer Science at <strong>Florida International University GPA: (3.8/4.0)</strong><br /><br />
+    🎓 I'm currently studying Computer Science at <strong>Florida International University GPA: (4.0)</strong><br /><br />
     🌱 I'm actively learning <strong>Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
     👯 I'm open to collaborative projects in <strong>Full-Stack Development, AI Model Training and Cloud architecture</strong><br /><br />
     📚 I'm skilled in <strong>Python, Java, Next.js, Typescript, React, MySQl, HTML & CSS</strong></br /><br />
@@ -37,7 +37,7 @@
 <br/>
 
 <h2 align=center>
-  ❄ STATS ❄
+  ⛄️❄ STATS ❄⛄️
 </h2>
 
 <div align = center>
