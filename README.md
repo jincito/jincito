@@ -4,7 +4,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=28ecfa&center=true&random=false&width=435&lines=Hello%F0%9F%91%8BHola%F0%9F%92%95%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E2%9C%8C;I'm+Jin+Carballosa" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Hello%F0%9F%91%8BHola%F0%9F%92%95%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E2%98%AE%EF%B8%8F;I'm+Jin+Carballosa" alt="Typing SVG" />
     </a>
 </h1>
 
@@ -37,11 +37,11 @@
 <br/>
 
 <h2 align=center>
-  ⛄️❄ STATS ❄⛄️
+  🌅 STATS 🌅
 </h2>
 
 <div align = center>
-  <img height=175 src="https://streak-stats.demolab.com?user=jincito&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img height=175 src="https://streak-stats.demolab.com?user=jincito&theme=dark-minimalist&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
