@@ -36,16 +36,6 @@
 
 <br/>
 
-<h2 align=center>
-  🌅 STATS 🌅
-</h2>
-
-<div align = center>
-  <img height=175 src="https://streak-stats.demolab.com?user=jincito&theme=dark-minimalist&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
 <div align=center>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincito&Langs_count=8&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs">
 </div>
